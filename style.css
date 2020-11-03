@@ -2,13 +2,13 @@ body {
 	background: -webkit-linear-gradient(bottom, #0000FF, #00FFFF);
 	background-repeat: no-repeat;
 }
-#card-title {
+.card-title {
 	text-align: center;
 }
-#judul {
+.judul {
 	text-align: center;
 }
-#card {
+.card {
 	background: #F8F8FF;
   		border-radius: 8px;
   		box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
