@@ -1,0 +1,38 @@
+body {
+	background: -webkit-linear-gradient(bottom, #0000FF, #00FFFF);
+	background-repeat: no-repeat;
+}
+#card-title {
+	text-align: center;
+}
+#judul {
+	text-align: center;
+}
+#card {
+	background: #F8F8FF;
+  		border-radius: 8px;
+  		box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+  		height: 500px;
+  		margin: 6rem auto 8.1rem auto;
+  		width: 450px;
+}
+.form {
+	align-items:left;
+	display: flex;
+	flex-direction: column;
+	
+}
+.form-border {
+	background: -webkit-linear-gradient(right, #DC143C, #B22222);
+  	height: 1px;
+  	width: 100%;
+}
+.form-content {
+	background: #fbfbfb;
+  	border: none;
+  	outline: none;
+  	padding-top: 14px;
+}
+label {
+	font-size: 11pt;
+}
